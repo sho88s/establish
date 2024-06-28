@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Performance teach common area.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
