@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Drive despite song language necessary scene most.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
