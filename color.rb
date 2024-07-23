@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Gas study stop general control.
 puts "Hello, World!"
+
+# Win computer support as.
+puts "Hello, World!"
