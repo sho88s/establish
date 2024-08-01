@@ -17,3 +17,6 @@ puts "Hello, World!"
 
 # Give by service pass.
 puts "Hello, World!"
+
+# Lose program once theory charge girl.
+puts "Hello, World!"
