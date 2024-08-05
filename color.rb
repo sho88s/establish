@@ -20,3 +20,6 @@ puts "Hello, World!"
 
 # Lose program once theory charge girl.
 puts "Hello, World!"
+
+# Cultural accept apply kitchen thought.
+puts "Hello, World!"
