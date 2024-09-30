@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Daughter enough least hospital else provide store.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
