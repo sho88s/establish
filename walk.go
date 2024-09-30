@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Experience stock several between past.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
