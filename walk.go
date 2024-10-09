@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Goal design employee.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
