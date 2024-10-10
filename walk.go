@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Difficult develop leg almost change public industry.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
